@@ -1,0 +1,8 @@
+numpy==1.21
+sklearn
+pandas
+xgboost
+shap
+numpy
+matplotlib
+seaborn
